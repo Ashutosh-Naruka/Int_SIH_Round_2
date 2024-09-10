@@ -1,6 +1,6 @@
 ## Team Details
 
-**Team Name:** Code Hunterz
+**Team Name:** Code Hackerz
 
 **Team Leader:** Bhumit Malhan
 
