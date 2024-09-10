@@ -1,4 +1,24 @@
+## Team Details
+
+**Team Name:** Code Hunterz
+
+**Team Leader:** Bhumit Malhan
+
+**Team Members:**
+
+- **MEMBER_1** - 2024UCS1540 - [@BhumitM](https://github.com/BhumitM)
+- **MEMBER_2** - 2024UCS1619 - [@Honest-Observer](https://github.com/Honest-Observer)
+- **MEMBER_3** - 2024UCS1528 - [@Aryanbharadwaj15](https://github.com/Aryanbharadwaj15)
+- **MEMBER_4** - 2024UCS1524 - [@Raokrish48](https://github.com/Raokrish48)
+- **MEMBER_5** - 2024UCS1522 - [@Ashutosh-Naruka](https://github.com/Ashutosh-Naruka)
+- **MEMBER_6** - 2024UCA1851 - [@pra-chi05](https://github.com/pra-chi05)
+
+
+
+
+
 # DegiHerb 🌿
+
 
 DegiHerb is an innovative Virtual Herbal Garden that showcases medicinal plants used in traditional systems like AYUSH. The platform provides an immersive and educational experience to explore the world of herbal remedies through 3D models, virtual tours, and detailed information on various plants and their medicinal properties. The project is designed to promote the use of traditional herbs in modern medicine while providing a visually captivating and interactive platform.
 
