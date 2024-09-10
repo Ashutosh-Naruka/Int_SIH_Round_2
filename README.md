@@ -13,7 +13,8 @@
 - **MEMBER_5** - 2024UCS1522 - [@Ashutosh-Naruka](https://github.com/Ashutosh-Naruka)
 - **MEMBER_6** - 2024UCA1851 - [@pra-chi05](https://github.com/pra-chi05)
 
-
+Live Delpoyment  Link - [View Delployment](https://digiherb.netlify.app)
+Youtube Video Link - [View Demo Video](https://youtu.be/hpkmUEwBrDs?si=dvz5yWf2_BNfUopb)
 
 
 
